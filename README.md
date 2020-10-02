@@ -39,10 +39,10 @@ The model initially way over-fit on the train data, and after reviewing in-stage
 
 
 #### Repo Organization:
-* data   --> Storage for online data and file processing
-* eda    --> Holds Jupyter Notebooks with EDA analysis
-* images --> Images for Readme and from EDA analysis
-* web_app -> Just like it says
+* data   --> Storage for online data and file processing.
+* eda    --> Holds Jupyter Notebooks with EDA analysis.
+* images --> Images for Readme and from EDA analysis.
+* web_app -> Just like it says.
 * src    --> Holds the helper functions, code to extract 
-                information from the web
+                information from the web.
 
